@@ -15,7 +15,6 @@ get_ipython().magic('matplotlib inline')
 # In[1]:
 
 from __future__ import print_function
-import numpy as np
 from keras.utils import np_utils
 #from mnist import MNIST
 import keras
