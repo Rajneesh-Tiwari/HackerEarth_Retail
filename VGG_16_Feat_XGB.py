@@ -49,9 +49,6 @@ from random import randint
 
 from sklearn.metrics import f1_score
 from __future__ import division
-import cv2
-import numpy as np
-import pandas as pd
 from tqdm import tqdm
 from keras.models import Sequential, Model
 from keras.layers import Dense, Dropout, Flatten, Merge, merge
